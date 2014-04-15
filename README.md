@@ -7,11 +7,11 @@ a simple jquery plugin
 
 html:
 ```html
-    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script src="jquery.slider.js"></script>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="jquery.slider.js"></script>
 ```
 
 javascript:
 ```javascript
-    $(selector).slider();
+$(selector).slider();
 ```
